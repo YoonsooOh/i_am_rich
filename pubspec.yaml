@@ -1,8 +1,6 @@
 name: i_am_rich
 description: A new Flutter project.
-
 version: 1.0.0+1
-
 environment:
   sdk: ">=2.12.0 <3.0.0"
 
@@ -19,5 +17,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-     - images/
+     - images/diamond.png
 
